@@ -1,0 +1,21 @@
+{
+  "name": "roomly",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Roomly — a browser-based Meeting Room Booking & Scheduler built with React + Vite.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  },
+  "dependencies": {
+    "lucide-react": "^1.55.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
